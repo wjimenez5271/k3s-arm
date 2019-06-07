@@ -1,0 +1,3 @@
+#cloud-config
+runcmd:
+final_message: "The system is finally up, after $UPTIME seconds"
